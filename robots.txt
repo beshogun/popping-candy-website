@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://poppingcandy.app/sitemap.xml
